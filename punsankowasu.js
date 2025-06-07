@@ -1,8 +1,8 @@
 // ==UserScript==
-// @name         超高速 チャンネルポイント自動交換（カスタマイズ可能）
+// @name         チャンネルポイント自動交換
 // @namespace    http://tampermonkey.net/
 // @version      5.1
-// @description  任意のチャンネルポイント報酬を超高速で無限交換
+// @description  
 // @author       GRDIMPCT
 // @match        *://www.twitch.tv/*
 // @grant        none
